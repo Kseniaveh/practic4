@@ -24,9 +24,9 @@
 
 ### Вариативные задания
 
-1) [Задание 2.1 ВСР](https://github.com/Kseniaveh/practic2020/blob/master/2.1.docx)  
+1) [Задание 2.1 ВСР](https://github.com/Kseniaveh/practic4/tree/master/2.1.%20ВСР)  
 
-2) [Задание 2.2 ВСР](https://github.com/Kseniaveh/practic2020/blob/master/2.2.docx)  
+2) [Задание 2.2 ВСР](https://github.com/Kseniaveh/practic4/blob/master/2.2%20ВСР%20Вехова.pdf)  
 
 
 
