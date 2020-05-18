@@ -32,6 +32,6 @@
 
 ### Документы
 
-[Задания](https://github.com/Kseniaveh/practic2020/blob/master/Задания%20Вехова.docx)  
+[Задания](https://github.com/Kseniaveh/practic4/tree/master/задания_отчет)  
 
-[Отчет](https://github.com/Kseniaveh/practic2020/blob/master/Отчет%20Вехова.docx)  
+[Отчет](https://github.com/Kseniaveh/practic4/tree/master/итоговый%20отчет)  
