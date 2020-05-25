@@ -18,7 +18,7 @@
 
 6) [Задание 1.6 ИСР](https://github.com/Kseniaveh/practic4/blob/master/ИСР%201.6.pdf)
 
-7) [Задание 1.7 ИСР](https://github.com/Kseniaveh/practic2020/blob/master/1.4.docx)
+7) [Задание 1.7 ИСР](https://github.com/Kseniaveh/practic4/blob/master/ИСР%201.7.docx)
 
 
 
